@@ -24,9 +24,8 @@ To run this project execute:
 
 
 ## Examples
-* To generate json files just run app and click into below link
+* To generate json files just run app and click into below link. You will find generated files in src/resources/JsonFiles
 http://localhost:8080/createJson
 
-You will find generated files in src/resources/JsonFiles
 ## Author
 * Przemysław Hawlicki
